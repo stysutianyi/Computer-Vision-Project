@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0040874d85_jpg.rf.d5481b5f012eb5433c1af5f51e3022b8.jpg</filename>
+	<path>0040874d85_jpg.rf.d5481b5f012eb5433c1af5f51e3022b8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>175</width>
+		<height>146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>176</xmax>
+			<ymin>1</ymin>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

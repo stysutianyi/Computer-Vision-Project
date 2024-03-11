@@ -1,0 +1,15 @@
+# path: /OD_Vehicle_Types_VOC/Final_data
+train: ./Computer-Vision-Project/OD_Vehicle_Types_VOC/Final_data/images/train
+#test: (test dataset folder path)
+val: ./Computer-Vision-Project/OD_Vehicle_Types_VOC/Final_data/images/val
+
+# Classes
+nc: 4 # replace based on your dataset's number of classes
+
+# Class names
+# replace all class names with your own classes' names
+names:
+  0: Cars
+  1: Crossovers
+  2: SUVs
+  3: Trucks

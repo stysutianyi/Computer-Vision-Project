@@ -1,0 +1,16 @@
+names:
+- Cars
+- Crossovers
+- Minivan
+- SUV
+- Trucks
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: od_vehicle_types
+  url: https://universe.roboflow.com/vehicle-type/od_vehicle_types/dataset/2
+  version: 2
+  workspace: vehicle-type
+test: ../test/images
+train: OD_Vehicle_Types-2/train/images
+val: OD_Vehicle_Types-2/valid/images
